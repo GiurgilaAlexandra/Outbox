@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rtzehyCRuB/817DBSveTjkCP6ZSv9XAxRLmfOzYIqEM=",
+  "Source": "POC.Outbox.WebAPI",
+  "BasePath": "_content/POC.Outbox.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
